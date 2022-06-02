@@ -1,0 +1,34 @@
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\bin\Debug\net6.0-windows\Persistence.deps.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\bin\Debug\net6.0-windows\Persistence.runtimeconfig.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\bin\Debug\net6.0-windows\Persistence.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\bin\Debug\net6.0-windows\Persistence.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\bin\Debug\net6.0-windows\Data.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\bin\Debug\net6.0-windows\Data.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\Persistence.csproj.AssemblyReference.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\Persistence.AssemblyInfoInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\Persistence.AssemblyInfo.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\Persistence.csproj.CoreCompileInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\Persistence.csproj.CopyComplete
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\Persistence.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\refint\Persistence.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\Persistence.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\Persistence.genruntimeconfig.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Persistence\obj\Debug\net6.0-windows\ref\Persistence.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\bin\Debug\net6.0-windows\Persistence.deps.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\bin\Debug\net6.0-windows\Persistence.runtimeconfig.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\bin\Debug\net6.0-windows\Persistence.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\bin\Debug\net6.0-windows\Persistence.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\bin\Debug\net6.0-windows\Data.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\bin\Debug\net6.0-windows\Data.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\Persistence.csproj.AssemblyReference.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\Persistence.AssemblyInfoInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\Persistence.AssemblyInfo.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\Persistence.csproj.CoreCompileInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\Persistence.csproj.CopyComplete
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\Persistence.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\refint\Persistence.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\Persistence.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\Persistence.genruntimeconfig.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Persistence\obj\Debug\net6.0-windows\ref\Persistence.dll

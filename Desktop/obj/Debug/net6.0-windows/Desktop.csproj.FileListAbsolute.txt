@@ -1,0 +1,112 @@
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Desktop.exe
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Desktop.dll.config
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Desktop.deps.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Desktop.runtimeconfig.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Desktop.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Desktop.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Data.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Data.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\App.g.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop_MarkupCompile.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop_MarkupCompile.lref
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.g.resources
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfo.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CopyComplete
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\refint\Desktop.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\Desktop.genruntimeconfig.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\obj\Debug\net6.0-windows\ref\Desktop.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\Desktop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Desktop.exe
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Desktop.dll.config
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Desktop.deps.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Desktop.runtimeconfig.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Desktop.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Desktop.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Http.Features.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.AspNetCore.WebUtilities.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Extensions.WebEncoders.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Net.Http.Headers.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Data.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\bin\Debug\net6.0-windows\Data.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.AssemblyReference.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\View\LoginWindow.baml
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\View\NewItemWindow.baml
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\View\LoginWindow.g.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\View\MainWindow.g.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\View\NewItemWindow.g.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\App.g.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop_MarkupCompile.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop_MarkupCompile.lref
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\View\MainWindow.baml
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.g.resources
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfoInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.AssemblyInfo.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CoreCompileInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.csproj.CopyComplete
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\refint\Desktop.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\Desktop.genruntimeconfig.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\Desktop\obj\Debug\net6.0-windows\ref\Desktop.dll

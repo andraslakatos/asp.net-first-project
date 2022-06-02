@@ -1,0 +1,71 @@
+﻿@using Persistence.Services
+@model List<Persistence.Item>
+@inject IFoodOrderService _service
+@{
+    ViewData["Title"] = "Category Items";
+}
+
+<h1>@ViewData["CurrentCategoryName"]</h1>
+
+<form asp-controller="Home" asp-action="Details" method="get">
+    <div>
+        <p>
+            Keresés: <input type="text" name="filter" value="@ViewData["CurrentFilter"]" />
+            <input type="submit" value="Keres" />
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+    <tr>
+        <th>
+            Név
+        </th>
+        <th>
+            Ár
+        </th>
+        <th>
+            Megjegyzés
+        </th>
+        <th>
+            Csípős
+        </th>
+        <th>
+            Vegán
+        </th>
+        <th>
+            Kosárba
+        </th>
+    </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Price
+            </td>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                <input asp-for="@item.Spicy" disabled="disabled"/>
+            </td>
+            <td>
+                <input asp-for="@item.Vegan" disabled="disabled"/>
+            </td>
+            <td>
+                <a asp-controller="Cart" asp-action="AddToCart" asp-route-itemId="@item.Id">Kosárba</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index">Vissza</a>
+</div>

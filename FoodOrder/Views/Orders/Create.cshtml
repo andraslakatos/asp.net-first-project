@@ -1,0 +1,32 @@
+﻿@model SaveOrderViewModel
+
+<form asp-controller="Orders" asp-action="Create">
+    <div asp-validation-summary="ModelOnly"></div>
+    <div>
+        @Html.LabelFor(o => o.Name)
+        <input asp-for="Name"/>
+        <span asp-validation-for="Name"></span>
+    </div>
+    <div>
+        @Html.LabelFor(o => o.Address)
+        <input asp-for="Address"/>
+        <span asp-validation-for="Address"></span>
+    </div>
+    <div>
+        @Html.LabelFor(o => o.PhoneNumber)
+        <input asp-for="PhoneNumber"/>
+        <span asp-validation-for="PhoneNumber"></span>
+    </div>
+    <div>
+        <input type="submit" value="Küldés"/>
+    </div>
+</form>
+
+<br>
+
+<div><a asp-controller="Home" asp-action="Index" >Vissza</a></div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial"/>
+}

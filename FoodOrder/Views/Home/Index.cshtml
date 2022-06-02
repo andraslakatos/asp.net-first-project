@@ -1,0 +1,67 @@
+﻿@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@using Persistence
+@model IEnumerable<Persistence.Category>
+
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+
+@if (Model == null || !Model.Any())
+{
+    <div>Nincs elérhető rendelés.</div>
+}
+else
+{
+    <h1>Étlap</h1>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th colspan="3">Kategóriák</th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var item in Model) 
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <a asp-controller="Home" asp-action="Details" asp-route-id="@item.Id" asp-route-filter="">Bővebben</a>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+
+    <table class="table">
+        <thead>
+        <tr>
+            <th colspan="3">Kedvencek</th>
+        </tr>
+        </thead>
+        <tr>
+            <th>Név</th>
+            <th>Ár</th>
+            <th>Kosárba</th>
+        </tr>
+        @foreach (Item item in ViewBag.Favorites)
+        {
+            <tr>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    @item.Price
+                </td>
+                <td>
+                    <a asp-controller="Cart" asp-action="AddToCart" asp-route-itemId="@item.Id">Kosárba</a>
+                </td>
+            </tr>
+        }
+
+    </table>
+}

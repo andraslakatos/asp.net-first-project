@@ -1,0 +1,541 @@
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.csproj.AssemblyReference.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.AssemblyInfoInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.AssemblyInfo.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.csproj.CoreCompileInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.MvcApplicationPartsAssemblyInfo.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.RazorAssemblyInfo.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.RazorAssemblyInfo.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\appsettings.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.staticwebassets.runtime.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.exe
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.deps.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.runtimeconfig.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\MessagePack.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Build.Locator.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Features.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Scripting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.DiaSymReader.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\dotnet-aspnet-codegenerator-design.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\NuGet.Common.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\NuGet.Configuration.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\NuGet.DependencyResolver.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\NuGet.LibraryModel.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\NuGet.Packaging.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\NuGet.ProjectModel.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\NuGet.Protocol.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\NuGet.Versioning.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\System.Composition.AttributedModel.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\System.Composition.Convention.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\System.Composition.Hosting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\System.Composition.Runtime.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\System.Composition.TypedParts.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Data.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Persistence.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Persistence.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\bin\Debug\net6.0-windows\Data.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\staticwebassets.build.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\staticwebassets.development.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\scopedcss\bundle\FoodOrder.styles.css
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\scopedcss\projectbundle\FoodOrder.bundle.scp.css
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.csproj.CopyComplete
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\refint\FoodOrder.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.genruntimeconfig.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder másolata\FoodOrder\obj\Debug\net6.0-windows\ref\FoodOrder.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\appsettings.Development.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\appsettings.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.staticwebassets.runtime.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.exe
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.deps.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.runtimeconfig.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\FoodOrder.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Castle.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\MessagePack.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\MessagePack.Annotations.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\System.Net.Http.Formatting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.AspNetCore.Razor.Language.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Build.Locator.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Features.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Razor.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Scripting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.DiaSymReader.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Extensions.Identity.Stores.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.OpenApi.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\dotnet-aspnet-codegenerator-design.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\NuGet.Common.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\NuGet.Configuration.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\NuGet.DependencyResolver.Core.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\NuGet.Frameworks.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\NuGet.LibraryModel.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\NuGet.Packaging.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\NuGet.ProjectModel.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\NuGet.Protocol.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\NuGet.Versioning.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.Swagger.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\System.Composition.AttributedModel.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\System.Composition.Convention.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\System.Composition.Hosting.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\System.Composition.Runtime.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\System.Composition.TypedParts.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Data.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Persistence.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Persistence.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\bin\Debug\net6.0-windows\Data.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.csproj.AssemblyReference.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.AssemblyInfoInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.AssemblyInfo.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.csproj.CoreCompileInputs.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.MvcApplicationPartsAssemblyInfo.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.MvcApplicationPartsAssemblyInfo.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.RazorAssemblyInfo.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.RazorAssemblyInfo.cs
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\staticwebassets.build.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\staticwebassets.development.json
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\scopedcss\bundle\FoodOrder.styles.css
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\scopedcss\projectbundle\FoodOrder.bundle.scp.css
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.csproj.CopyComplete
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\refint\FoodOrder.dll
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.pdb
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\FoodOrder.genruntimeconfig.cache
+C:\Egyetem\4_felev\WAF\Assignment\FoodOrder\FoodOrder\obj\Debug\net6.0-windows\ref\FoodOrder.dll

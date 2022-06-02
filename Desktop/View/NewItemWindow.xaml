@@ -1,0 +1,74 @@
+﻿<Window x:Class="Desktop.View.NewItemWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:i="http://schemas.microsoft.com/xaml/behaviors"
+        mc:Ignorable="d"
+        Title="TodoList - Item editor" Height="Auto" Width="400"
+        ResizeMode="NoResize" SizeToContent="Height">
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="Closed">
+            <i:InvokeCommandAction Command="{Binding CancelNewItemCommand}"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Name:" VerticalAlignment="Center" />
+        <TextBox Grid.Row="0" Grid.Column="1" Margin="5"
+                 Text="{Binding NewItem.Name, UpdateSourceTrigger=PropertyChanged}" />
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Price:" VerticalAlignment="Center" />
+        <TextBox Grid.Row="1" Grid.Column="1" Margin="5"
+                 Text="{Binding NewItem.Price, UpdateSourceTrigger=PropertyChanged}" />
+
+        <Label Grid.Row="2" Grid.Column="0" Content="Description:" VerticalAlignment="Center" />
+        <TextBox Grid.Row="2" Grid.Column="1" Margin="5" TextWrapping="Wrap" MaxLines="2" VerticalScrollBarVisibility="Auto"
+                 Text="{Binding NewItem.Description}" />
+
+        <Label Grid.Row="3" Grid.Column="0" Content="Spicy:" VerticalAlignment="Center" />
+        <CheckBox Grid.Row="3" Grid.Column="1" x:Name="SpicyCheckbox" IsChecked="{Binding NewItem.Spicy}" VerticalAlignment="Center" Margin="5,0,0,0"/>
+
+        <Label Grid.Row="4" Grid.Column="0" Content="Vegan:" VerticalAlignment="Center" />
+        <CheckBox Grid.Row="4" Grid.Column="1" x:Name="VeganCheckbox" IsChecked="{Binding NewItem.Vegan}" VerticalAlignment="Center" Margin="5,0,0,0"/>
+
+        <Label Grid.Row="5" Grid.Column="0" Content="OrderedCount:" VerticalAlignment="Center" />
+        <TextBox Grid.Row="5" Grid.Column="1" Margin="5" TextWrapping="Wrap" MaxLines="2" VerticalScrollBarVisibility="Auto"
+                 Text="{Binding NewItem.OrderedCount}" />
+
+
+        <Label Grid.Row="6" Grid.Column="0" Content="Category:" VerticalAlignment="Center" />
+        <ComboBox Grid.Row="6" Grid.Column="1" Margin="5,5,95,5"
+                  ItemsSource="{Binding Categories}"
+                  SelectedValue="{Binding NewItem.CategoryId}"
+                  SelectedValuePath="Id"
+                  DisplayMemberPath="Name" />
+
+        <Button Grid.Row="7" Grid.Column="0" Content="Cancel"
+                HorizontalAlignment="Left" VerticalAlignment="Center"
+                Width="73"  Height="21"  Margin="5"
+                IsCancel="True"
+                Command="{Binding CancelNewItemCommand}"/>
+
+        <Button Grid.Row="7" Grid.Column="1" Content="Save"
+                HorizontalAlignment="Right" VerticalAlignment="Center"
+                Width="73"  Height="21"  Margin="5"
+                IsDefault="True"
+                Command="{Binding SaveNewItemCommand}"
+                CommandParameter="{Binding NewItem}"/>
+    </Grid>
+</Window>

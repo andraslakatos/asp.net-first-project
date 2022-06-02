@@ -1,0 +1,84 @@
+﻿@using Persistence.Services
+@using System.Linq
+@using Persistence
+@model IEnumerable<Persistence.Category>
+@inject IFoodOrderService _service
+@{
+    ViewData["Title"] = "Category Items";
+}
+
+@{
+    List<CartItem> cart = new List<CartItem>();
+    if (ViewBag.cart != null)
+    {
+        cart = new List<CartItem>(ViewBag.cart);
+    }
+}
+
+<h1> Bevásárló kosár</h1>
+
+<br>
+
+@if(ViewBag.cart == null || !cart.Any())
+{
+<div class="h3">Még üres a kosár.</div>
+
+<br>
+
+<div><a asp-controller="Home" asp-action="Index">Vissza</a></div>
+}
+else
+{
+<table class="table">
+    <tr>
+        <th>Darabszám</th>
+        <th>Név</th>
+        <th>Ár</th>
+        <th>Megjegyzés</th>
+        <th>Csípős</th>
+        <th>Vegán</th>
+        <th></th>
+    </tr>
+    @foreach (var cartItem in cart)
+    {
+        var item = _service.GetItem(cartItem.ItemId)!;
+        <tr>
+            <td>
+                @cartItem.Quantity
+            </td>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.Price
+            </td>
+            <td>
+                @item.Description
+            </td>
+            <td>
+                <input asp-for="@item.Spicy" disabled="disabled"/>
+            </td>
+            <td>
+                <input asp-for="@item.Vegan" disabled="disabled"/>
+            </td>
+            <td>
+                <a asp-controller="Cart" asp-action="RemoveFromCart" asp-route-itemId="@cartItem.ItemId">Törlés a kosárból</a>
+            </td>
+        </tr>
+    }
+</table>
+    
+<br/>
+
+<div class="h5">
+    Fizetendő összeg: @ViewBag.cartValue (MAX 20.000 Ft)
+</div>
+
+<br>
+
+<div>
+    <a asp-controller="Home" asp-action="Index">Vissza</a> |
+    <a asp-controller="Orders" asp-action="Create">Rendelés leadása</a> |
+    <a asp-action="ClearCart">Kosár kiürítése</a>
+</div>
+}
